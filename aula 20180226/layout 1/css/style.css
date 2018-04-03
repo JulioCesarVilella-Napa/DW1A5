@@ -1,0 +1,47 @@
+/* comentário em css */
+body {
+	/* background: #124578; */
+}
+
+#page{
+	width: 800px;
+	margin: 0 auto 0 auto;
+	background: #ffff00;
+	
+}#header{
+	width: 800px;
+	height: 220px;
+	background: #070600;
+	margin: 10px 0 10px 0;
+	
+}
+
+#nav{
+	width: 800px;
+	height: 50px;
+	background: #0706A7;
+	margin: 10px 0 10px 0;
+	
+}
+
+#sidebar{
+	width: 200px;
+	height: 500px;
+	background: #A60607;
+	float: left;
+}
+
+
+#content{
+	width: 600px;
+	height: 500px;
+	background: #120907;
+	float: left;
+}
+
+#footer{
+	width: 800px;
+	height: 100px;
+	background: #C60907;
+	float: left;
+}

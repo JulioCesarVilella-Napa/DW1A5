@@ -1,0 +1,60 @@
+/* comentário em css */
+body {
+	/* background: #124578; */
+}
+
+#page{
+	width: 800px;
+	margin: 0 auto 0 auto;
+	/*background: #ffff00;*/
+	
+}#header{
+	width: 800px;
+	height: 200px;
+	background: #070600;
+	
+	
+}
+
+
+
+#nav{
+	width: 800px;
+	height: 50px;
+	background: #0706A7;
+	margin: 10px 0 10px 0;
+	
+}
+
+#sidebarleft{
+	width: 90px;
+	height: 500px;
+	background: #A60607;
+	margin: 0 10px 0 0;
+	float: left;
+}
+
+
+
+#content{
+	width: 600px;
+	height: 500px;
+	background: #120907;
+	float: left;
+}
+
+#sidebarright{
+	width: 90px;
+	height: 500px;
+	background: #A60607;
+	margin: 0 0 0 10px;
+	float: right;
+}
+
+#footer{
+	width: 800px;
+	height: 100px;
+	background: #222907;
+	float: left;
+	margin: 10px 0 0 0;
+}
